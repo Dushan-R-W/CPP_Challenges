@@ -1,9 +1,7 @@
 #include <iostream>
 #include <string>
-#include <iostream>
 #include <iomanip> // For std::setw
 #include <cmath>
-#include <iostream>
 
 void showBoard(int boardSize, std::string board[][3]) {
     //show the board
