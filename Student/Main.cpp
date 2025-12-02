@@ -62,7 +62,6 @@ void sort(std::vector<Student>& students, const std::string &soryBy) {
             }
         }
     );
-
 }
 
 int main()
