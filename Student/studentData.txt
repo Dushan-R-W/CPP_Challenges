@@ -1,20 +1,21 @@
 [
     {
         "age": 37,
-        "course": "Com Scin",
+        "course": "Computer Scince",
         "id": 1,
         "name": "test1"
     },
     {
         "age": 25,
-        "course": "Psy",
+        "course": "Psycology",
         "id": 4,
         "name": "Test2"
     },
     {
         "age": 76,
-        "course": "ahufgea",
+        "course": "Medical Science",
         "id": 8,
-        "name": "AATest"
+        "name": "Name3"
     }
+
 ]
