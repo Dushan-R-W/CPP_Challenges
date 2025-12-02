@@ -10,6 +10,7 @@ It allows to add a student, view student, search by ID, sort by ID, sort by name
 **Student.cpp** - Process student data, save and load data to/from file
 **Main.cpp** - Runs the management system  and allows the user to interact by introducing options. Also it's responsible for adding students, view students, search and sort
 **studentData.txt**  - Holds an example of what saved data looks like.
+**json.hpp** - nlohmann/json headder file used to create json objects during save and read file process
 
 # Example of options available:
 
